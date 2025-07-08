@@ -38,13 +38,6 @@ text
 │   └── Churn_Modelling.csv
 └── README.md
 
-.
-├── churn_prediction_model.ipynb
-├── data/
-│   └── Churn_Modelling.csv
-└── README.md
-
-
 **Getting Started**
 Prerequisites
 Python 3.x
